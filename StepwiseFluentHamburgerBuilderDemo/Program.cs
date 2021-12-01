@@ -6,6 +6,7 @@ namespace StepwiseFluentHamburgerBuilderDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("***Builder Pattern Demo***");
             var burger = HamburgerBuilder.Create().
                 OfType(HamburgerType.Vegan).
                 WithBun(ServingSize.Medium).
@@ -18,7 +19,9 @@ namespace StepwiseFluentHamburgerBuilderDemo
                 WithTomato(ServingSize.Extra).
                 Build();
 
+            Console.WriteLine("Hamburger was assembled!");
             Console.WriteLine(burger.ToString());
+            Console.WriteLine("The ingredients are hardcoded, change the serving sizes in Program.cs to style your own awesome burger :)");
 
             Console.ReadKey();
         }
