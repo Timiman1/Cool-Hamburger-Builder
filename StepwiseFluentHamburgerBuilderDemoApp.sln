@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepwiseFluentHamburgerBuilderDemo", "StepwiseFluentHamburgerBuilderDemo\StepwiseFluentHamburgerBuilderDemo.csproj", "{F356031D-31D4-4691-829F-9583056CE348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F356031D-31D4-4691-829F-9583056CE348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F356031D-31D4-4691-829F-9583056CE348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F356031D-31D4-4691-829F-9583056CE348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F356031D-31D4-4691-829F-9583056CE348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D17167D-71F0-4A89-AB60-2CBDA20D9C18}
+	EndGlobalSection
+EndGlobal

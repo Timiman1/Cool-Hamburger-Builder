@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StepwiseFluentHamburgerBuilderDemo.Hamburger">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgggEAAAAAQEIAACAAAAAAAAAAAAQQAAAAAAgAA=</HashCode>
+      <FileName>Hamburger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepwiseFluentHamburgerBuilderDemo.HamburgerBuilder">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Class Name="StepwiseFluentHamburgerBuilderDemo.HamburgerBuilder.Impl" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HamburgerBuilder.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>HamburgerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.IBuildHamburger" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBuildHamburger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyBunServing" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyBunServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyCheeseServing" Collapsed="true">
+    <Position X="1.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyCheeseServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyCucumberServing" Collapsed="true">
+    <Position X="3" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyCucumberServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyHamburgerType" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ISpecifyHamburgerType.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyKetchupServing" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyKetchupServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyLettuceServing" Collapsed="true">
+    <Position X="5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ISpecifyLettuceServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyOnionServing" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyOnionServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyPattyServing" Collapsed="true">
+    <Position X="5.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyPattyServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StepwiseFluentHamburgerBuilderDemo.ISpecifyTomatoServing" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISpecifyTomatoServing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StepwiseFluentHamburgerBuilderDemo.HamburgerType">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HamburgerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StepwiseFluentHamburgerBuilderDemo.ServingSize">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAEEAAA=</HashCode>
+      <FileName>ServingSize.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
